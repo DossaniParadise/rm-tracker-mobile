@@ -1,0 +1,5 @@
+{
+  "name": "Dossani Paradise R&M",
+  "description": "Repair & Maintenance Tracker for Dossani Paradise Management",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
